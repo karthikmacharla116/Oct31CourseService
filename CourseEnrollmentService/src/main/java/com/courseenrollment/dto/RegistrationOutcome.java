@@ -1,0 +1,14 @@
+package com.courseenrollment.dto;
+
+public enum RegistrationOutcome {
+    ENROLLED,
+    WAITLISTED,
+    ALREADY_ENROLLED,
+    ALREADY_WAITLISTED,
+    DUPLICATE_IDENTITY,
+    USER_NOT_FOUND,
+    COURSE_NOT_FOUND,
+    INVALID_USER_INFORMATION,
+    NOT_QUALIFIED,
+    WAITLIST_FULL
+}
