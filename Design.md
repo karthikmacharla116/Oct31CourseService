@@ -107,3 +107,4 @@ UsersCourses Table:
     withdrawnStatus: Enum  -- caveat, I'm thinking we can separate the status as cartesian product for better readility. I inspired this from building FSMs
     -- etc
 
+Adding the AI assistent Prompt chat Link: https://chatgpt.com/share/6ae58eb6-722c-83ee-81b0-8b030f02bd70
